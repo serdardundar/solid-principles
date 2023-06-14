@@ -1,6 +1,5 @@
-package com.github.serdardundar.solidprinciples.singleresponsibility.begin;
+package com.github.serdardundar.solidprinciples.singleresponsibility.model;
 
-//User entity
 public class User {
 
     private String name;
