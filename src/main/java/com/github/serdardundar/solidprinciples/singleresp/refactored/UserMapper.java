@@ -1,7 +1,7 @@
-package com.github.serdardundar.solidprinciples.singleresponsibility.refactored;
+package com.github.serdardundar.solidprinciples.singleresp.refactored;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.serdardundar.solidprinciples.singleresponsibility.model.User;
+import com.github.serdardundar.solidprinciples.singleresp.model.User;
 
 import java.io.IOException;
 

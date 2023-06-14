@@ -1,4 +1,4 @@
-package com.github.serdardundar.solidprinciples.singleresponsibility.model;
+package com.github.serdardundar.solidprinciples.singleresp.model;
 
 import java.util.HashMap;
 import java.util.Map;

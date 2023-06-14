@@ -1,4 +1,4 @@
-package com.github.serdardundar.solidprinciples.singleresponsibility.refactored;
+package com.github.serdardundar.solidprinciples.singleresp.refactored;
 
 import java.io.IOException;
 

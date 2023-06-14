@@ -1,4 +1,4 @@
-package com.github.serdardundar.solidprinciples.singleresponsibility.model;
+package com.github.serdardundar.solidprinciples.singleresp.model;
 
 public class User {
 
